@@ -22,7 +22,7 @@ body{
     margin-bottom: 10px;
 }
 
-.block  h4, h5{
+.block p , h4, h5{
     font-family:'Open Sans Condensed', sans-serif;
     margin-left: 25px;
     margin-top: 15px;
@@ -54,6 +54,20 @@ body{
       letter-spacing: 2px;
 }
 
+.socialLogos{
+  width: 45px;
+  height: 45px;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
 .socialLogos:hover{
   opacity: 0.8;
+}
+
+footer{
+  font-family:'Open Sans Condensed', sans-serif;
+  font-size:1.3em;
+  text-align: center;
+  margin-top: 20px;
 }

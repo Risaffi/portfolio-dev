@@ -6809,72 +6809,9 @@ button.close {
        -webkit-box-shadow: none;
        box-shadow: none;
     }
-
-    .socialLogos{
-      width: 45px;
-      height: 45px;
-      margin-left: 1px;
-      margin-right: 1px;
-    }
-
-    footer{
-      font-family:'Open Sans Condensed', sans-serif;
-      font-size:1.3em;
-      text-align: center;
-      margin-top: 20px;
-    }
 }
 @media (min-width: 1101px) {
   .navbar-nav  {
       float:right;
-  }
-
-  .block-row{
-    width: 100%;
-    margin:1%;
-  }
-
-  .block-column .block{
-    width: 45%;
-    height: 600px;
-    float:left;
-  }
-
-  .block {
-    width: 93%;
-    float:left;
-    font-size: 1.6rem;
-  }
-
-  .column{
-      width: 50%;
-      height: 450px;
-      float:left;
-  }
-
-  #tecnologias p {
-    float:left;
-    margin-left: 25px;
-    margin-right: 25px;
-  }
-
-  #redes{
-    text-align: center;
-  }
-
-  #redes-title {
-    text-align: left;
-  }
-
-  .socialLogos{
-    height: 70px;
-    width: 70px;
-  }
-
-  footer{
-    font-family:'Open Sans Condensed', sans-serif;
-    font-size:1.3em;
-    text-align: center;
-    margin-top: 1250px;
   }
 }
